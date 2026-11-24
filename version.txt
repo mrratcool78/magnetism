@@ -1,0 +1,4 @@
+build=24
+name=2.4
+sha256=293ba971e05fccb5ea58a0dc6aba9b2fe21918fdd4d6072ca80eb368cd7e4a3e
+notes=update test
